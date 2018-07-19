@@ -3,10 +3,10 @@ A dating website using Nodejs+Express+Mongodb
 
 $ npm install
 
-< br />
+< br \>
 
 $ node server
 
-< br />
+< br \>
 
 Navigate to localhost:8080
